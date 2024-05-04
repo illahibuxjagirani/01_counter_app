@@ -14,7 +14,7 @@ export default function Home() {
     if(running){
       timer = setInterval(()=>{
         setCount((prevCount) => prevCount + 1);
-      }, 100)
+      }, 500)
     }
 
     return () => {
