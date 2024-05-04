@@ -49,7 +49,7 @@ export default function Home() {
       rounded-lg
       ">
 
-        <h1 className="text-4xl font-bold">Counter App with IB Coding</h1>
+        <h1 className="text-4xl font-bold">Counter App</h1>
         <p className="font-bold text-3xl">{count}</p>
 
         {/* buttons */}
